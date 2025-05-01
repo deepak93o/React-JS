@@ -30,7 +30,7 @@ function App() {
       onClick={addValue}
       >Add Value</button>
       <br />
-      <button
+      <button id="rmv" 
       onClick={removeValue}>
       Remove Value</button>
     </>
